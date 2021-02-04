@@ -1,3 +1,2 @@
 my first file in github
-edit first
 edit second
